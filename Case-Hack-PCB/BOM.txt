@@ -1,0 +1,5 @@
+Buttons: K2-1109SP-B4SA-01 https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1109SP-B4SA-01_C92571.html
+
+Mosfet: DMG3406L https://lcsc.com/product-detail/MOSFET_Diodes-Incorporated-DMG3406L-13_C481695.html
+
+Generic 2.54mm Pin headers
